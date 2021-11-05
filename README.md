@@ -1,6 +1,6 @@
-# **Module 11 Challenge: Forecasting Net Prophet**
+# **Forecasting Net Prophet**
 
-## Forecasting Net Prophet¶
+## Overview
 
 The Forecasting Net Prophet creates a forecast model of MercadoLibre stock prices, search trends as well as its sales revenues. To better understand how they affect the company as a whole. It uses FBProphet to create our modeling tool.
 
